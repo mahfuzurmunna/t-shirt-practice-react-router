@@ -1,0 +1,19 @@
+.t-shirt {
+  border: 1px solid lightblue;
+  border-radius: 15px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  margin-top: auto;
+}
+
+.t-shirt img {
+  width: 200px;
+  border-radius: 15px;
+  object-fit: cover;
+}
+
+.btn-buy {
+  background-color: rgb(231, 166, 87);
+  color: black;
+}
